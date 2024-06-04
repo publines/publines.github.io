@@ -135,6 +135,7 @@ p.intro-par {
     align-items: center;
     column-gap: 1ex;
     width: 160px;
+    overflow: hidden;
 }
 
 .loading-animated {
